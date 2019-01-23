@@ -1,3 +1,3 @@
-# shape-of-cell
+# shape-of-view
 
-this change the shape of cell
+this change the shape of view
